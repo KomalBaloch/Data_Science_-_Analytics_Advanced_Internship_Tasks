@@ -42,7 +42,3 @@ Binary Classification (Yes / No)
 ## 📌 Tools Used
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SHAP
 
----
-
-## 🚀 Author
-Internship Project - DevelopersHub Corporation
